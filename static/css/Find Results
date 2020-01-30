@@ -1,0 +1,10 @@
+Searching 10 files for "background-image: url(../img/banner/banner.png);"
+
+/home/student/Downloads/listingo/listingo/css/style.css:
+ 1370  /* line 1, ../../Arafath/CL/Cl November/222. Directory/HTML/scss/_slider.scss */
+ 1371  .slider_bg_1 {
+ 1372:   background-image: url(../img/banner/banner.png);
+ 1373  }
+ 1374  
+
+1 match in 1 file
