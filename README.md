@@ -27,7 +27,7 @@ git clone https://github.com/rami44/NAZA-Explore.git
 ```
 python app.py
 ```
-3. Open Browser and go to:
+2. Open Browser and go to:
 ```
 http://127.0.0.1:5000/
 ```
