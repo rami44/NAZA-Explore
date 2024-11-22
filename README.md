@@ -20,7 +20,6 @@ python --version
 Clone the repository:
 ```
 git clone https://github.com/rami44/NAZA-Explore.git
-cd project-name
 ```
 ## Usage
 
