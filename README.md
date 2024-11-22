@@ -18,14 +18,17 @@ python --version
 ## Installation
 
 Clone the repository:
+```
 git clone https://github.com/username/project-name.git
 cd project-name
-
+```
 ## Usage
 
 1. Run the app:
+```
 python app.py
-
-2. Open Browser and go to:
+```
+3. Open Browser and go to:
+```
 http://127.0.0.1:5000/
-
+```
